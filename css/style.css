@@ -838,6 +838,7 @@ main {
 	gap: 50px;
 	justify-content: center;
 	align-items: center;
+	flex-wrap: wrap;
 }
 .footer__item {
 }
